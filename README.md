@@ -1,1 +1,8 @@
-![Dashboard](shinny.gif)
+
+
+
+
+
+
+![Dashboard](~/Documents/CENFOTEC/Shiny/Prueba/shinny.gif)
+)
