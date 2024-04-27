@@ -23,7 +23,7 @@ Esta aplicación Shiny ha sido desarrollada para demostrar un modelo de clasific
 
 ## Ejemplo de Uso
 
-![Ejemplo de uso](/home/notebook/Documents/CENFOTEC/Shiny/Prueba/shinny.gif) 
+![Ejemplo de uso](/home/notebook/Documents/CENFOTEC/Shiny/Prueba1/shinny.gif) 
 
 Este GIF muestra cómo interactuar con la aplicación para obtener predicciones del modelo de clasificación de Iris.
 
