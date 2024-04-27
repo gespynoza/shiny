@@ -1,1 +1,1 @@
-![Descripción del GIF](shinny.gif)
+![Dashboard](shinny.gif)
